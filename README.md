@@ -23,3 +23,14 @@ Link: https://leetcode.com/problems/running-sum-of-1d-array/
 ShuflleArray -> 1470. Shuffle the Array. 
 Link: https://leetcode.com/problems/shuffle-the-array/
 
+SearchInsertPos -> 35. Search Insert Position
+Link: https://leetcode.com/problems/search-insert-position/
+
+GuessNumber -> 374. Guess Number Higher or Lower
+Link: https://leetcode.com/problems/guess-number-higher-or-lower/
+
+FindSmallestLetter -> 744. Find Smallest Letter Greater Than Target
+Link: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+
+CapToShip -> 1011. Capacity To Ship Packages Within D Days
+Link: https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
